@@ -174,3 +174,4 @@ mpiexec -n N python scripts/classifier_sample.py \
 ```
 
 To sample for 250 timesteps without DDIM, replace `--timestep_respacing ddim25` to `--timestep_respacing 250`, and replace `--use_ddim True` with `--use_ddim False`.
+
